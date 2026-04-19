@@ -1,31 +1,50 @@
-<h2 align="left">UTOP (Utilities Treaty Organization Project)</h2>
+# OP (Utilities Treaty Organization Project)
 
-###
+A collection of lightweight Windows utilities designed to improve system performance, remove unnecessary bloat, and keep your PC clean and efficient.
 
-<p align="left">A PROJECT AIMED TO HELP BOOST YOUR PC TO THE MAX WHILE BEING NEAT AND TIDY!</p>
+## Features
 
-###
+* Windows 11 Debloater (removes preinstalled apps and unnecessary services)
+* Windows Cleaner (cleans temporary files and unused data)
+* Simple UI built with CustomTkinter
+* Lightweight and fast
 
-<h3 align="left">Languages Used</h3>
+## ⚠️ Warning
 
-###
+These tools make system-level changes, including modifying system settings and removing built-in Windows components.
 
-<p align="left">Python</p>
+**Use at your own risk.**
 
-###
+Before running:
 
-<h3 align="left">CAUTIONS⚠️</h3>
+* Create a system restore point
+* Back up important files
+* Review the script to understand what it does
 
-###
+## Requirements
 
-<p align="left">THE 2 SCRIPTS:<br>WIDNOWS 11 DEBLOATER<br>WINDOWS CLEANER APPS <br><br>CAN PERMANENTLY BRICK OR DESTROY YOUR OS/DEVICE MAKE SURE TO USE WITH CARE AND UNDERSTAND WHAT THE SCRIPT DOES</p>
+* Python 3.x → https://www.python.org/
 
-###
+## Dependencies
 
-<h3 align="left">Requirements</h3>
+Install required packages:
 
-###
+pip install customtkinter
+pip install cryptography
 
-<p align="left">You must have python download visit https://www.python.org for more information on downloading<br><br>DEPENDENCIES RUN IN TERMINAL AFTER INSTALLATION:<br>pip install customtkinter<br>pip install cryptography<br><br>Enjoy the scripts! -Made By WindowsPlayz_ with love ❤️</p>
+## Usage
 
-###
+Run the scripts using Python:
+
+python main.py
+
+(or the specific script you want to use)
+
+## Notes
+
+* Some features may require administrator privileges
+* Tested on Windows 11 (results may vary on other versions)
+
+## Author
+
+Made by WindowsPlayz_
