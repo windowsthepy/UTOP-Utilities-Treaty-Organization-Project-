@@ -32,13 +32,6 @@ Install required packages:
 pip install customtkinter
 pip install cryptography
 
-## Usage
-
-Run the scripts using Python:
-
-python main.py
-
-(or the specific script you want to use)
 
 ## Notes
 
