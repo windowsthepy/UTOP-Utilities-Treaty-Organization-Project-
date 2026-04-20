@@ -74,17 +74,6 @@ pip install psutil matplotlib customtkinter cryptography
 
 ---
 
-## 🚀 Usage
-
-Each tool runs independently:
-
-```bash id="c8q1zd"
-python dashboard.py
-python office_organizer.py
-python password_checker.py
-python debloater.py
-```
-
 ---
 
 ## ⚠️ Important Warning
